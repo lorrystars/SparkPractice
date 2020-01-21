@@ -1,4 +1,4 @@
-package com.ysstech.sparkstreaming.Utils
+package com.ysstech.spark.Utils
 
 import java.util.{Calendar, Date}
 

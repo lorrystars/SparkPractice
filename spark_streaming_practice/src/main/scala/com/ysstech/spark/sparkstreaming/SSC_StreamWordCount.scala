@@ -1,7 +1,7 @@
-package com.ysstech.sparkstreaming
+package com.ysstech.spark.sparkstreaming
 
 import org.apache.spark.SparkConf
-import org.apache.spark.streaming.dstream.{DStream, ReceiverInputDStream}
+import org.apache.spark.streaming.dstream.ReceiverInputDStream
 import org.apache.spark.streaming.{Seconds, StreamingContext}
 
 object SSC_StreamWordCount {

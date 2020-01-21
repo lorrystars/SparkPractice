@@ -1,6 +1,6 @@
-package com.ysstech.sparkstreaming
+package com.ysstech.spark.sparkstreaming
 
-import com.ysstech.sparkstreaming.Utils.DateUtils
+import com.ysstech.spark.Utils.DateUtils
 import org.apache.spark.SparkConf
 import org.apache.spark.streaming.{Seconds, StreamingContext}
 

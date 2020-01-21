@@ -1,4 +1,4 @@
-package com.ysstech.sparkstreaming
+package com.ysstech.spark.sparkstreaming
 
 import org.apache.spark.SparkConf
 import org.apache.spark.rdd.RDD

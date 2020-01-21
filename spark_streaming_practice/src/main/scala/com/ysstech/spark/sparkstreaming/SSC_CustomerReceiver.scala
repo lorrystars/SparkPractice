@@ -1,4 +1,4 @@
-package com.ysstech.sparkstreaming
+package com.ysstech.spark.sparkstreaming
 
 import java.io.{BufferedReader, InputStreamReader}
 import java.net.Socket
